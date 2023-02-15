@@ -1,4 +1,4 @@
-#外卖网项目
+# 外卖网项目
 
 * :film_projector:本项目用作前端学习者练习HTML+CSS的静态布局，同时使用JS添加了动画效果。
 * :goal_net:flex布局和grid布局都会应用在项目中。
